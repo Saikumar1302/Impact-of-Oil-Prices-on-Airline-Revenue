@@ -1,0 +1,20 @@
+software used and their versions:
+jupyter --version
+Selected Jupyter core packages...
+IPython          : 8.30.0
+ipykernel        : 6.29.5
+jupyterlab       : 4.3.4
+notebook         : 7.3.2
+
+
+programing language used:
+Python 3.13.5
+
+libraries of python used and their versions:
+pandas                            2.2.3
+numpy                             2.1.3
+scipy                             1.15.3
+statsmodels                       0.14.4
+
+run this to install all libraries:
+pip install -r requirements.txt
