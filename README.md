@@ -1,5 +1,5 @@
 # Impact-of-Oil-Prices-on-Airline-Revenue
-A Comparative Analysis of Oil-Producing vs Non-Oil-Producing Countries 
+A Comparative Analysis of Oil-Producing vs Non-Oil-Producing Countries .
 The core motvation of this project is to empirically examine how crude oil price movements 
 translate into revenue movements within the airline industry. This is par cularly relevant because 
 revenue does not always move in the same direc on as cost. Fuel costs may rise, but airlines may 
